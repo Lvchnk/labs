@@ -1,3 +1,0 @@
-WIDTH = 800
-HEIGHT = 800
-LIVES = 3
